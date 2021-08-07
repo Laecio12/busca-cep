@@ -24,6 +24,7 @@ export const Container = styled.div`
 
 export const Form = styled.form`
   border-radius: 0.25rem;
+  padding: 1rem;
   display: flex;
   flex-direction: column;
   align-items: center;
